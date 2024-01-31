@@ -32,8 +32,9 @@ The dataset used for this project consists of information related to HR analytic
 - Add Bar chart, Pie chart, Column chart, Cards, Matrix chart, Donut chart etc
  
 ## Screenshots:
+![Screenshot HR Analytics](https://github.com/pranjalizade4/HR-Analytics-Dashboard-_Power-BI/assets/157109891/8c132f47-4b66-409e-892d-4327e2daa642)
 
-## Usage
+
 To explore the HR analytics dashboard:
 1.	Clone the repository:
 git clone!(https://github.com/pranjalizade4/HR-Analytics-Dashboard-_Power-BI)
