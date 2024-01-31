@@ -31,13 +31,12 @@ The dataset used for this project consists of information related to HR analytic
 - Add Month column as Slicer and add some informative KPI.
 - Add Bar chart, Pie chart, Column chart, Cards, Matrix chart, Donut chart etc
  
-## Screenshots
-![image](https://github.com/![![Screenshot HR Analytics](https://github.com/pranjalizade4/HR-Analytics-Dashboard-_Power-BI/assets/157109891/26370418-17c9-477e-ab91-a360d2506707)
-](https://github.com//Screenshot.jpg)
+## Screenshots:
+
 ## Usage
 To explore the HR analytics dashboard:
 1.	Clone the repository:
-git clone!(https://github.com/pranjalizade4/HR-Analytics-Dashboard-_Power-BI/assets/157109891/976f4fed-5d08-43db-b055-5cb61a629c8d)
+git clone!(https://github.com/pranjalizade4/HR-Analytics-Dashboard-_Power-BI)
 
 2.	Open Power BI Desktop or Power BI Online.
 3.	Download the raw dataset files located in the repository.
